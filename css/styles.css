@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: "Stanley";
+    src: url('./Stanley.otf');
+    src: url('./Stanley.otf') format('embedded-opentype');
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Stanley', sans-serif;
+    color: #0466c8;
+}
