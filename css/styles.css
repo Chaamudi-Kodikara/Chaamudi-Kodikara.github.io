@@ -2,11 +2,11 @@
 @font-face {
     font-family: "Stanley";
     src: url('./Stanley.otf');
-    src: url('./Stanley.otf') format('embedded-opentype');
+    src: url('./Stanley.otf') ;
 }
 
 h1 {
     font-size: 3em;
-    font-family: 'Stanley', sans-serif !important;
+    font-family: 'Stanley' !important;
     color: #0466c8;
 }
