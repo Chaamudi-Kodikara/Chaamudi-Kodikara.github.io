@@ -7,6 +7,6 @@
 
 h1 {
     font-size: 3em;
-    font-family: 'Stanley', sans-serif;
+    font-family: 'Stanley', sans-serif !important;
     color: #0466c8;
 }
